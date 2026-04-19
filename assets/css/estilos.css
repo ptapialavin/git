@@ -1,5 +1,9 @@
-body {
+gitbody {
   font-family: "Raleway", sans-serif;
+}
+
+h1{
+color: white;
 }
 
 /* Hero Section */
