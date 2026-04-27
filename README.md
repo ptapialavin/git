@@ -1,3 +1,3 @@
 # Readme
-Primer trabajo realizado para ser compartido en Github. Modificamos Título principal, cada unos de sus fotos agregamos textos para hacerlo más personalizado. Agregamos cambios tambien en estilos.css y el footer.
+Currículum Vitae realizado para la entrega del primer módulo del Bootcamp de DesafíoLatam- Desarrollo Full Stack JavaScript-Curso Introducción al Desarrollo web- Abril 2026
 
